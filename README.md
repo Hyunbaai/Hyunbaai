@@ -6,7 +6,7 @@
 - 🌱 Exploring advanced navigation strategies (Nav2, MPPI, RPP, Collision Monitor)  
 - 🛰️ Interested in **robotics + cloud integration** (Supabase, AWS Amplify)  
 - 💬 Ask me about ROS2, RMF, Navigation2, IoT, and Robotics Systems  
-- 📫 Reach me at: hyunbaai@example.com  
+- 📫 Reach me at: yms9391@gmail.com  
 
 ---
 
