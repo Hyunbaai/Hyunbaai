@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Fun Add-ons
+## 🚀 I'm..
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Robotics+Software+Engineer;ROS2+%7C+RMF+%7C+Nav2+Enthusiast;Cloud+%2B+Robotics+Integration)](https://git.io/typing-svg)
 
