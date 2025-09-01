@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 이현배입니다.
 
 <!--
 **Hyunbaai/Hyunbaai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
