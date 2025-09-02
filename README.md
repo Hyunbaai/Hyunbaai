@@ -1,4 +1,4 @@
-# Hi I'm Hyunbaai 👋 
+# 안녕하세요, 이현배입니다. 
 
 🤖 **Robotics Software Developer | ROS2 & RMF Enthusiast**
 
